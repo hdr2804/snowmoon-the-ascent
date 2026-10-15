@@ -1,0 +1,19 @@
+1
+00:00:58,800 --> 00:01:01,000
+Welcome, Acolyte.
+
+2
+00:01:01,300 --> 00:01:03,300
+{\i1}[He begins to introduce himself — is stopped.]{\i0}
+
+3
+00:01:03,800 --> 00:01:06,300
+Have you made your choice?
+
+4
+00:01:06,800 --> 00:01:07,800
+I have.
+
+5
+00:01:08,200 --> 00:01:10,400
+I am applying to become a Keeper.
